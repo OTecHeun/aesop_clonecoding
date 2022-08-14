@@ -1,0 +1,44 @@
+/* 메인*/
+.mainbanner{height: 653px;background: url(../img/main/mainbanner1.png) no-repeat center / cover; text-indent: -9999px; font-size: 0;}
+
+/* 스토어 */
+.store{height: 655px;background-color: #f8f6e5;position: relative;}
+.store .right-bg{position: absolute;left: 50%;top: 0;height: 655px;width: 50%;background-color: #f3f2e9;}
+.store .inner{z-index: 1000;position: relative;}
+.store .store-left{width: 50%;height: 655px;float: left;padding-top: 128px;padding-left: 37px;box-sizing: border-box;}
+.store .store-left h3{font-size: 40px;color: #464646;font-weight: 700;font-family: 'Philosopher',serif;margin-bottom: 40px;}
+.store .store-left p:nth-of-type(1){font-size: 38px;color: #333;font-weight: 700;margin-bottom: 30px;}
+.store .store-left p:nth-of-type(2){font-size: 18px;color: #666;line-height: 21px;}
+.store .store-left p:nth-of-type(3){font-size: 21px;line-height: 36px;color: #666;margin-top: 54px}
+
+.store .store-left .new-store-more{display: block;width: 220px;height: 60px;color: #fff;font-size: 14px;line-height: 60px;text-align: center;background-color: #465a4f;margin-left: 146px;margin-top: 79px;}
+
+.store .store-right{width: 50%;height: 655px;float: left;padding-left: 58px;padding-top: 69px;box-sizing: border-box;}
+.store .store-right .slide-control{margin-top: 46px;margin-left: 15px;}
+.store .store-right .slide-control button{float: left;text-indent: -9999px;font-size: 0;width: 49px;height: 15px;}
+.store .store-right .slide-prev-btn{background: url(../img/main/prev-arrow.png) no-repeat;margin-right: 44px;}
+.store .store-right .slide-next-btn{background: url(../img/main/next-arrow.png) no-repeat;}
+
+.product-new{background-color: #f8f6e5;padding-top: 130px;padding-bottom: 92px;}
+h3{margin-bottom: 55px;font-family: 'Philosopher',serif;font-size: 40px;font-weight: bold;text-align: center;color: #464646;}
+.product-best h3{color: #fffffa;}
+/* product-new */
+.new-item li{float: left;margin-right: 21px;margin-top: 17px;font-family: 'Noto Sans KR', sans-serif;font-size: 14.5px;line-height: 1.45;text-align: center;color: #333;}
+.new-item .new-list{margin-top: 17px;}
+.new-item li .price{margin-top: 13px;font-family: 'Noto Sans KR', sans-serif;font-size: 13.5px;text-align: center;color: #666;}
+/* product-best  */
+.product-best{background-color: #465a4f;padding-top: 109px;padding-bottom: 95px;}
+.best-list{padding-top: 17px; padding-bottom: 12px;font-size: 18px}
+.dallor{padding-bottom: 17px;font-size: 16px}
+.best-item li{float: left;margin-right: 27px;margin-top: 4px;font-family: 'Noto Sans KR', sans-serif;font-size: 18px;text-align: center;color: #fffef2;}
+.best-item> li:last-child{margin-right: 0;}
+.new-item li .price{margin-top: 13px;font-family: 'Noto Sans KR', sans-serif;font-size: 13.5px;text-align: center;color: #666;}
+/*product-different */
+.product-different{padding-top: 79px;padding-bottom: 80px;background-color: 
+    #f8f6e5}
+.different-item li{margin-right: 84px;float: left;}
+.different-item li p{font-family: 'Noto Sans KR', sans-serif;font-size: 16px;text-align: center;color: #666;margin-top: 55px;line-height: 1.75;}
+/* sns */
+.sns{padding-top: 193px;padding-bottom: 109px;background-color: #f8f6e5;}
+.sns .beuty li{float: left;margin-right: 27px;}
+.sns .beuty p{margin-top: 31.7px;font-family: 'Noto Sans KR', sans-serif;font-size: 24px;text-align: center;color: #333;}
