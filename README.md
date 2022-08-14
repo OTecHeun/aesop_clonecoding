@@ -1,6 +1,6 @@
 # [클론코딩] aesop
 
-![kiffy](https://user-images.githubusercontent.com/104907318/184520994-cf235b14-e30f-490f-ba99-78896ecbd80e.png)
+![aesop](https://user-images.githubusercontent.com/104907318/184521811-1343a5e6-f4c4-482c-a3f8-16e0065c60f7.png)
 
 **요약** :
 
